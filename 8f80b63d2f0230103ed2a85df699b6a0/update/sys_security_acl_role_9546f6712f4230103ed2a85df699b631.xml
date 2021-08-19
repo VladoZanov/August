@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-19 09:23:12</sys_created_on>
+        <sys_id>9546f6712f4230103ed2a85df699b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_89842_theapp_tablea.x_89842_theapp.tablea_user</sys_name>
+        <sys_package display_value="TheApp" source="x_89842_theapp">8f80b63d2f0230103ed2a85df699b6a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TheApp">8f80b63d2f0230103ed2a85df699b6a0</sys_scope>
+        <sys_security_acl display_value="x_89842_theapp_tablea">d546f6712f4230103ed2a85df699b62e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9546f6712f4230103ed2a85df699b631</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-19 09:23:12</sys_updated_on>
+        <sys_user_role display_value="x_89842_theapp.tablea_user" name="x_89842_theapp.tablea_user">78467ebd2f0230103ed2a85df699b6ce</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
